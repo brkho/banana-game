@@ -1,0 +1,17 @@
+banana game
+
+instructions:
+```sudo pip install pygame
+python main.py```
+
+click the bananas as fast as u can!
+
+but if u miss, u lose a life!
+if u reach 0 lives, u lose!!!!
+
+gl
+
+david xu
+rajiv thamburaj
+brian ho
+
